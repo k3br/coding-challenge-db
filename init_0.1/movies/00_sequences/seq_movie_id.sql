@@ -1,0 +1,1 @@
+CREATE SEQUENCE movies.seq_movie_id START 1000000000000;
